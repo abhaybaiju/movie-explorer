@@ -1,4 +1,4 @@
-# Movielens
+# Movie Explorer
 
 A movie database and accompanying frontend app built to explore the Python Django framework along with using GraphQL instead of a REST API.
 
